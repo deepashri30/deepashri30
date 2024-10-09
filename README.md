@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development , API's  & Gen AI
 - 🌱 I’m currently learning Java , Javascript , Python
 - 💞️ I’m looking to collaborate on Gen AI , Web Development, Backend,Frontend
--🤝🏻 Email- deepashri3006@gmail.com
+🤝🏻 Email- deepashri3006@gmail.com
 
 
 <!---
